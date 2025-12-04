@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 25px;
+}
+
+input[type="number"], input[type="submit"] {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+    background-color: #0078d4; /* Modrá barva */
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+.zvýraznit {
+    color: darkgreen;
+    font-weight: bold;
+}
